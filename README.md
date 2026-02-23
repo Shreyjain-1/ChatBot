@@ -29,9 +29,19 @@ The app integrates **Firebase AI API** to generate intelligent responses dynamic
 
 ## 📸 Screenshots
 
-| Chat UI                         | AI Response Example             |
-| ------------------------------- | ------------------------------- |
-| ![chat1](screenshots/chat1.png) | ![chat2](screenshots/chat2.png) |
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/bf9b3267-373a-451d-bd71-dfa36b10d99c" width="300"/><br/>
+      <b>Chat UI</b>
+    </td>
+    <td width="40"></td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/7c6fe55c-3b1f-4b75-a6d7-5fbf5705c5bc" width="300"/><br/>
+      <b>AI Response</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
