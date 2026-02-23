@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "740013484053",
+    "project_id": "calapp-2b2e0",
+    "storage_bucket": "calapp-2b2e0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740013484053:android:df69e135a45ec98d55c61c",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh9cVvsAMtMH-knCtnAwNTOvZ_95-hFHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
